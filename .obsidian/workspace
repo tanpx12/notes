@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "fd3a8438f36fd741",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1171fbbbc7470f2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "To do list.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9735877a1853818e",
+    "type": "split",
+    "children": [
+      {
+        "id": "00abc41593539813",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50888560f712de4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ebdb2a68dd90fed2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "afa6e413f1fff191",
+    "type": "split",
+    "children": [
+      {
+        "id": "f87b4506711db486",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d659d01625ed3717",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "To do list.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b1171fbbbc7470f2",
+  "lastOpenFiles": [
+    "Rollup tutorial.md",
+    "Excalidraw/Drawing 2022-10-13 16.28.10.excalidraw.md"
+  ]
+}

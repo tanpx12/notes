@@ -1,0 +1,5 @@
+- [Artemis - A Rust MEV bot by Paradigm][https://www.paradigm.xyz/2023/05/artemis]
+- [EVM front running tools][https://github.com/Supercycled/cake_sniper]
+- [Apebot][https://github.com/duckdegen/apebot]
+- [MEV-Pack][https://graph.org/MEV-PACK-06-10]
+- 
